@@ -1,4 +1,4 @@
-package business;
+package dbhandler.business;
 
 import java.awt.Toolkit;
 import java.io.FileInputStream;
@@ -34,7 +34,7 @@ abstract public class AbstractDbHandler
 				InputStream is;
 				try 
 				{
-					is = new FileInputStream( "C:\\workspace\\INM21\\src\\db.properties" );
+					is = new FileInputStream( "C:\\workspace\\INM21\\src\\dbhandler\\db.properties" );
 					p.load(is);
 				} 
 				catch (Exception ex) 

@@ -1,12 +1,12 @@
 /* Created on 05.04.2010 */
-package util;
+package dbhandler.util;
 
 import java.awt.Toolkit;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
 
-import business.DbHandler;
+import dbhandler.business.DbHandler;
 
 public class Util
 {

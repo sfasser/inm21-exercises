@@ -8,7 +8,7 @@
 		</layout>
 	</appender>
 	<appender name="R" class="org.apache.log4j.RollingFileAppender">
-		<param name="file" value="logs/studierende_db.log" />
+		<param name="file" value="dbhandler/logs/studierende_db.log" />
 		<param name="MaxFileSize" value="100KB" />
 		<!-- Keep one backup file -->
 		<param name="MaxBackupIndex" value="1" />

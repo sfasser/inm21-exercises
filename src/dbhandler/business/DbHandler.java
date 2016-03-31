@@ -1,4 +1,4 @@
-package business;
+package dbhandler.business;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.util.TreeSet;
 
 import org.apache.log4j.Logger;
 
-import util.Util;
+import dbhandler.util.Util;
 
 public class DbHandler extends AbstractDbHandler
 {

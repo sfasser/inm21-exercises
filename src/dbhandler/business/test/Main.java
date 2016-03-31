@@ -1,8 +1,8 @@
-package business.test;
+package dbhandler.business.test;
 
 import java.sql.SQLException;
 
-import business.DbHandler;
+import dbhandler.business.DbHandler;
 
 public class Main
 {
