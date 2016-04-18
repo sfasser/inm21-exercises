@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="C:/workspace/INM21/src/dbhandler/lib/log4j-1.2.15.jar"/>
 	<classpathentry kind="lib" path="C:/workspace/INM21/src/dbhandler/lib/postgresql-9.4-1203.jdbc42.jar"/>
+	<classpathentry kind="lib" path="src/threading/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="src/rmi/aufgabe1/FinanceCalcNew.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
